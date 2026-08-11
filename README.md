@@ -3,4 +3,4 @@ I created this website to write about my process of understanding Plato's works.
 More info about the structure of this website can be found [here](./moreinfo.md). 
 
 
-[Recollecting Argument in Phaedo](./Phaedo/RecollectingArgument.md)
+- [Recollecting Argument in Phaedo](./Phaedo/RecollectingArgument.md)
