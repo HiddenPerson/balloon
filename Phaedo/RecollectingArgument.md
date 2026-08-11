@@ -5,4 +5,4 @@ However, upon reading [Plato’s Middle Period Metaphysics and Epistemology](htt
 
 ---
 
-[back to the front page](./README.md)
+[back to the front page](https://hiddenperson.github.io/balloon/)
