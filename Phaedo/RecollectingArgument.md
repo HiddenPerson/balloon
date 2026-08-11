@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "Recollecting Argument in Phaedo"
+layout: page
+title: Recollecting Argument in Phaedo
 ---
+
 When reading the Phaedo for the first time, my first attempt of paraphrasing the recollection argument in Phaedo (72e-77d) goes as follows (with using the form of equality as an example): 
 > The justification for the claim that the soul is immortal is that 'equal' objects in the physical world do not actually perfectly exemplify equality (since objects in the physical world might be slightly different from each other, or change overtime). Only equality itself perfectly exemplifies equality. Therefore, we cannot learn what equality itself is through our senses by observing physical objects. So how do we know what equality itself is? The only way to explain this is that we already knew it once because the soul in our body had the knowledge before our birth, and the imperfect 'equal objects' we then observe reminded us of what equality actually is. 
 
