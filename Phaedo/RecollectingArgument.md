@@ -8,6 +8,6 @@ When reading the Phaedo for the first time, my first attempt of paraphrasing the
 
 However, upon reading [Plato’s Middle Period Metaphysics and Epistemology](https://plato.stanford.edu/entries/plato-metaphysics/) in the Stanford Encylopedia of Philosophy, I learned that Plato is not necessarily claiming that that equal objects in the physical world are approximations of equality, just that <span style="color:red"> unequal things can sometimes appear unequal</span>. To make that further assumption that particulars are imperfect examples of the perfect forms is the _approximationist_ viewpoint.  
 
----
+***
 
 [back to the front page](https://hiddenperson.github.io/balloon/)
