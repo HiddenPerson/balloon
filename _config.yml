@@ -1,5 +1,7 @@
 remote_theme: riggraz/no-style-please
 plugins:
 - jekyll-remote-theme 
-title:
-description: 
+
+theme_config:
+  appearance: "light"
+  show_description: "false"
