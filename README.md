@@ -4,3 +4,5 @@ More info about the structure of this website can be found [here](./moreinfo.md)
 
 
 - [Recollecting Argument in Phaedo](./Phaedo/RecollectingArgument.md)
+- [The Sun Analogy in the Republic](./Republic/SunAnalogy.md) 
+- [The Line in the Republic](./Republic/TheLine.md)
