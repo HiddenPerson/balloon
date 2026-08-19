@@ -1,5 +1,6 @@
 ---
 layout: notitle
+title: More Info
 ---
 
 Pages on this website are created based on a specific topic within Plato's work. Sometimes a page is about a specific passage, sometimes the topic will be more general. I will link all pages on the front page. I may link between pages, but I haven't decided yet. I will cite all the sources in the secondary literature that I use.   
