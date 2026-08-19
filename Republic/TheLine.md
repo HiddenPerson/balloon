@@ -22,5 +22,3 @@ I am not really familiar with Ancient Greek geometry, but what I believe is bein
 Something that bothers me about my understanding of the line is that it seems that the subsections A and B are sets of objects whereas the C and D are sets of thought processes. Even though they are all sets of different things, they are all still sets. However, I am not even sure if it makes senses to think of these subsections as sets. 
 
 ***
-
-[back to the front page](https://hiddenperson.github.io/balloon/)

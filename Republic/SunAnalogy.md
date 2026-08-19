@@ -16,5 +16,3 @@ Plato is exploiting the semantics of the word 'good' to also imply that a 'good'
 
 
 ***
-
-[back to the front page](https://hiddenperson.github.io/balloon/)
